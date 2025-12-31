@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "嘘じゃない",
+  "base_artist": "ずっと真夜中でいいのに。",
+  "createdAt": "2025-12-31T11:45:33.988439Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "嘘じゃない - Truth in Lies",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_嘘じゃない_-_Truth_in_Lies_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "嘘じゃない",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/02_嘘じゃない_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夢じゃない,嘘じゃない,目の前にある幸せな情景。",
+      "artist": "うたたP",
+      "has_synced": false,
+      "path": "select/03_夢じゃない,嘘じゃない,目の前にある幸せな情景。_うたたP.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夢じゃない,嘘じゃない,目の前にある幸せな情景。",
+      "artist": "UtataP",
+      "has_synced": false,
+      "path": "select/04_夢じゃない,嘘じゃない,目の前にある幸せな情景。_UtataP.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "嘘じゃない",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/05_嘘じゃない_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "夢じゃない、嘘じゃない、目の前にある幸せな情景。",
+      "artist": "うたたP",
+      "has_synced": false,
+      "path": "select/06_夢じゃない、嘘じゃない、目の前にある幸せな情景。_うたたP.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "嘘じゃない",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/07_嘘じゃない_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "嘘じゃない (不是谎言)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/08_嘘じゃない_(不是谎言)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "嘘じゃない (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/09_嘘じゃない_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "嘘じゃない[オフボーカル]",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/10_嘘じゃない[オフボーカル]_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "嘘じゃない  / Truth In Lies",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/11_嘘じゃない___Truth_In_Lies_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "嘘じゃない - 本格中華喫茶・愛のペガサス ~羅武の香辛龍~ 2024 / LIVE",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/12_嘘じゃない_-_本格中華喫茶・愛のペガサス_~羅武の香辛龍~_2024___LIVE_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "嘘じゃない",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_嘘じゃない_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
