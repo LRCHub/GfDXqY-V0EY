@@ -1,80 +1,80 @@
 {
   "version": 1,
-  "base_track": "嘘じゃない",
+  "base_track": "嘘じゃない (Live)",
   "base_artist": "ずっと真夜中でいいのに。",
-  "createdAt": "2025-12-31T11:45:33.988439Z",
+  "createdAt": "2026-02-10T11:18:00.230467Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "嘘じゃない - Truth in Lies",
+      "title": "嘘じゃない",
       "artist": "ZUTOMAYO",
       "has_synced": true,
-      "path": "select/01_嘘じゃない_-_Truth_in_Lies_ZUTOMAYO.lrc"
+      "path": "select/01_嘘じゃない_ZUTOMAYO.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
       "title": "嘘じゃない",
-      "artist": "ZUTOMAYO",
+      "artist": "ずっと真夜中でいいのに。",
       "has_synced": true,
-      "path": "select/02_嘘じゃない_ZUTOMAYO.lrc"
+      "path": "select/02_嘘じゃない_ずっと真夜中でいいのに。.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "夢じゃない,嘘じゃない,目の前にある幸せな情景。",
-      "artist": "うたたP",
-      "has_synced": false,
-      "path": "select/03_夢じゃない,嘘じゃない,目の前にある幸せな情景。_うたたP.txt"
+      "title": "嘘じゃない",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/03_嘘じゃない_ZUTOMAYO.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "夢じゃない,嘘じゃない,目の前にある幸せな情景。",
-      "artist": "UtataP",
-      "has_synced": false,
-      "path": "select/04_夢じゃない,嘘じゃない,目の前にある幸せな情景。_UtataP.txt"
+      "title": "嘘じゃない (不是谎言)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/04_嘘じゃない_(不是谎言)_ずっと真夜中でいいのに。.lrc"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "嘘じゃない",
+      "title": "嘘じゃない (Instrumental)",
       "artist": "ずっと真夜中でいいのに。",
       "has_synced": true,
-      "path": "select/05_嘘じゃない_ずっと真夜中でいいのに。.lrc"
+      "path": "select/05_嘘じゃない_(Instrumental)_ずっと真夜中でいいのに。.lrc"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "夢じゃない、嘘じゃない、目の前にある幸せな情景。",
-      "artist": "うたたP",
-      "has_synced": false,
-      "path": "select/06_夢じゃない、嘘じゃない、目の前にある幸せな情景。_うたたP.txt"
+      "title": "嘘じゃない - Truth in Lies",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/06_嘘じゃない_-_Truth_in_Lies_ZUTOMAYO.lrc"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "嘘じゃない",
-      "artist": "ZUTOMAYO",
-      "has_synced": true,
-      "path": "select/07_嘘じゃない_ZUTOMAYO.lrc"
+      "title": "夢じゃない,嘘じゃない,目の前にある幸せな情景。",
+      "artist": "うたたP",
+      "has_synced": false,
+      "path": "select/07_夢じゃない,嘘じゃない,目の前にある幸せな情景。_うたたP.txt"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "嘘じゃない (不是谎言)",
-      "artist": "ずっと真夜中でいいのに。",
-      "has_synced": true,
-      "path": "select/08_嘘じゃない_(不是谎言)_ずっと真夜中でいいのに。.lrc"
+      "title": "夢じゃない,嘘じゃない,目の前にある幸せな情景。",
+      "artist": "UtataP",
+      "has_synced": false,
+      "path": "select/08_夢じゃない,嘘じゃない,目の前にある幸せな情景。_UtataP.txt"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "嘘じゃない (Instrumental)",
-      "artist": "ずっと真夜中でいいのに。",
-      "has_synced": true,
-      "path": "select/09_嘘じゃない_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+      "title": "夢じゃない、嘘じゃない、目の前にある幸せな情景。",
+      "artist": "うたたP",
+      "has_synced": false,
+      "path": "select/09_夢じゃない、嘘じゃない、目の前にある幸せな情景。_うたたP.txt"
     },
     {
       "id": "lrclib_10",
